@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Helena 👋
 
-<!--
-**Helena-devs/Helena-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer based in Berlin, Germany.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- Backend development with Python (FastAPI)
+- REST API design & system architecture
+- PostgreSQL & SQL-based systems
+- Docker & deployment basics
+- Retrieval systems (search / vector / hybrid)
+
+Currently focused on building production-like backend systems.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:** Python, FastAPI, REST APIs  
+**Database:** PostgreSQL, SQLAlchemy  
+**DevOps:** Docker, Docker Compose  
+**Other:** Git, Linux basics
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 User Service API
+Production-like backend system with authentication and database integration.
+
+- FastAPI
+- PostgreSQL
+- JWT Authentication
+- Docker
+
+👉 (later add your GitHub link)
+
+---
+
+### 🔹 Retrieval Service API
+Backend search service with hybrid retrieval logic.
+
+- Vector search
+- Keyword search
+- REST API design
+
+---
+
+### 🔹 Data Processing Service
+ETL-style backend system for structured data processing.
+
+- Python pipelines
+- SQL processing
+- Data transformation
+
+---
+
+## 📫 Contact
+
+- Email: yiwulingyaoling@gmail.com
+- Location: Berlin, Germany
