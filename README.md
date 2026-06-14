@@ -25,7 +25,7 @@ I enjoy designing scalable APIs, working with databases, and building retrieval 
 
 ---
 
-### 🔹 User Authentication API
+### 🔹 Authentication Service
 FastAPI-based authentication service with JWT, PostgreSQL persistence, and Dockerized deployment.
 
 - JWT authentication system
@@ -45,7 +45,7 @@ RAG-based search backend using FAISS vector search with hybrid keyword + semanti
 
 ---
 
-### 🔹 Data ETL Backend
+### 🔹 ETL Backend System
 ETL pipeline system with FastAPI and PostgreSQL for data ingestion, transformation, and SQL-based analytics.
 
 - Data ingestion API (batch + single)
