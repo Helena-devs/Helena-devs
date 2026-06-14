@@ -1,59 +1,58 @@
-# Hi, I'm Helena 👋
-
-Backend Engineer based in Berlin, Germany.
+# Na Liu 
+Backend Engineer based in Berlin, Germany
 
 ---
 
 ## 🧠 About Me
 
-- Backend development with Python (FastAPI)
-- REST API design & system architecture
-- PostgreSQL & SQL-based systems
-- Docker & deployment basics
-- Retrieval systems (search / vector / hybrid)
+Backend engineer focused on building production-like backend systems and data-driven applications.
 
-Currently focused on building production-like backend systems.
+I enjoy designing scalable APIs, working with databases, and building retrieval + data processing systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend:** Python, FastAPI, REST APIs  
+**Backend:** FastAPI, Python, REST APIs, System Design  
 **Database:** PostgreSQL, SQLAlchemy  
+**Search / AI:** FAISS, Vector Search, Retrieval Systems  
 **DevOps:** Docker, Docker Compose  
-**Other:** Git, Linux basics
+**Tools:** Git, Linux
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 User Service API
-Production-like backend system with authentication and database integration.
+---
 
-- FastAPI
-- PostgreSQL
-- JWT Authentication
-- Docker
+### 🔹 User Authentication API
+FastAPI-based authentication service with JWT, PostgreSQL persistence, and Dockerized deployment.
 
-👉 (later add your GitHub link)
+- JWT authentication system
+- RESTful API design
+- PostgreSQL integration
+- Docker deployment
 
 ---
 
-### 🔹 Retrieval Service API
-Backend search service with hybrid retrieval logic.
+### 🔹 RAG Search Backend
+RAG-based search backend using FAISS vector search with hybrid keyword + semantic retrieval.
 
-- Vector search
-- Keyword search
-- REST API design
+- Vector similarity search (FAISS)
+- Hybrid retrieval (keyword + semantic)
+- FastAPI REST interface
+- Scalable backend architecture
 
 ---
 
-### 🔹 Data Processing Service
-ETL-style backend system for structured data processing.
+### 🔹 Data ETL Backend
+ETL pipeline system with FastAPI and PostgreSQL for data ingestion, transformation, and SQL-based analytics.
 
-- Python pipelines
-- SQL processing
-- Data transformation
+- Data ingestion API (batch + single)
+- ETL pipeline (validation + transformation)
+- PostgreSQL storage with normalized schema
+- SQL-based analytics endpoints
+- Dockerized environment
 
 ---
 
